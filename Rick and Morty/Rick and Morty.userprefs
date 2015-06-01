@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SwipeControls.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyByTime.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="18" Column="35" />
-      <File FileName="Assets\Scripts\SwipeControls.cs" Line="87" Column="20" />
+      <File FileName="Assets\Scripts\DestroyByTime.cs" Line="10" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
