@@ -35,4 +35,5 @@ public class ShotSpawn : MonoBehaviour {
 		timer = 0f;
 		Rigidbody2D bulletInstance = Instantiate(bullet, transform.position, transform.rotation) as Rigidbody2D;
 	}
+
 }
