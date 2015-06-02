@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 8e06d077b713fbf48938df610473d543
+timeCreated: 1433218232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rickSprite_0
+    21300002: rickSprite_1
+    21300004: rickSprite_2
+    21300006: rickSprite_3
+    21300008: rickSprite_4
+    21300010: rickSprite_5
+    21300012: rickSprite_6
+    21300014: rickSprite_7
+    21300016: rickSprite_8
+    21300018: rickSprite_9
+    21300020: rickSprite_10
+    21300022: rickSprite_11
+    21300024: rickSprite_12
+    21300026: rickSprite_13
+    21300028: rickSprite_14
+    21300030: rickSprite_15
+    21300032: rickSprite_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rickSprite_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 613
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 492
+        width: 177
+        height: 233
+      alignment: 9
+      pivot: {x: .293926686, y: .0419607535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 627
+        width: 65
+        height: 51
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 568
+        width: 128
+        height: 123
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 650
+        width: 152
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 531
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 533
+        width: 65
+        height: 52
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 433
+        width: 129
+        height: 123
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 504
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 436
+        width: 152
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 14
+        width: 399
+        height: 321
+      alignment: 9
+      pivot: {x: .655745983, y: .285366982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 114
+        width: 90
+        height: 189
+      alignment: 9
+      pivot: {x: .169774041, y: .878831148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 141
+        width: 51
+        height: 135
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 213
+        width: 71
+        height: 49
+      alignment: 9
+      pivot: {x: .252647728, y: .720559895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 113
+        width: 90
+        height: 189
+      alignment: 9
+      pivot: {x: .184784621, y: .893126607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_15
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 151
+        width: 51
+        height: 135
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rickSprite_16
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 227
+        width: 71
+        height: 49
+      alignment: 9
+      pivot: {x: .271675229, y: .748130322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
