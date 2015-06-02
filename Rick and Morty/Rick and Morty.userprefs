@@ -1,10 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScrollingBackground.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ChangeScene.cs">
     <Files>
+      <File FileName="Assets\Scripts\ChangeScene.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\ShotSpawn.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\SwipeControls.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ScrollingBackground.cs" Line="12" Column="35" />
+      <File FileName="Assets\Scripts\ScrollingBackground.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
