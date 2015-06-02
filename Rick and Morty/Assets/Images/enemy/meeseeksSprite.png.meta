@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 7dd8343f66b142b4cb4ed9abf212c078
+timeCreated: 1433261131
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: meeseeksSprite_0
+    21300002: meeseeksSprite_1
+    21300004: meeseeksSprite_2
+    21300006: meeseeksSprite_3
+    21300008: meeseeksSprite_4
+    21300010: meeseeksSprite_5
+    21300012: meeseeksSprite_6
+    21300014: meeseeksSprite_7
+    21300016: meeseeksSprite_8
+    21300018: meeseeksSprite_9
+    21300020: meeseeksSprite_10
+    21300022: meeseeksSprite_11
+    21300024: meeseeksSprite_12
+    21300026: meeseeksSprite_13
+    21300028: meeseeksSprite_14
+    21300030: meeseeksSprite_15
+    21300032: meeseeksSprite_16
+    21300034: meeseeksSprite_17
+    21300036: meeseeksSprite_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: meeseeksSprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 545
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 428
+        width: 129
+        height: 129
+      alignment: 9
+      pivot: {x: .683838964, y: .0689290389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 389
+        width: 109
+        height: 180
+      alignment: 9
+      pivot: {x: .59002912, y: .259212911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 428
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 301
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: .320444524, y: .146225557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 301
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: .761485457, y: .152244896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 244
+        width: 57
+        height: 89
+      alignment: 9
+      pivot: {x: .794676661, y: .904412448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 301
+        width: 92
+        height: 46
+      alignment: 9
+      pivot: {x: .108775266, y: .273959607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 154
+        width: 28
+        height: 80
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 169
+        width: 59
+        height: 90
+      alignment: 9
+      pivot: {x: .852471054, y: .117855497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 164
+        width: 83
+        height: 31
+      alignment: 9
+      pivot: {x: .868627369, y: .379362047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 143
+        width: 55
+        height: 73
+      alignment: 9
+      pivot: {x: .252777666, y: .938267112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 94
+        height: 43
+      alignment: 9
+      pivot: {x: .933954537, y: .258188456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 71
+        height: 76
+      alignment: 9
+      pivot: {x: .128244534, y: .100081496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_17
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 21
+        width: 39
+        height: 69
+      alignment: 9
+      pivot: {x: 1.03322506, y: .697061837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meeseeksSprite_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 38
+        width: 71
+        height: 42
+      alignment: 9
+      pivot: {x: .150774881, y: .785656154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
