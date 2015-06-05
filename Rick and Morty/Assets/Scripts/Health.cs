@@ -5,10 +5,12 @@
 /// </summary>
 public class Health : MonoBehaviour
 {
+	public GameObject cloudPoof;
+	public GameObject shotConnect;
 	/// <summary>
 	/// Total hitpoints
 	/// </summary>
-	public int hp = 1;
+	public int hp = 10;
 	
 	/// <summary>
 	/// Enemy or player?
@@ -26,7 +28,8 @@ public class Health : MonoBehaviour
 		if (hp <= 0)
 		{
 			// Dead!
-			Destroy(gameObject);
+			Instantiate(cloudPoof, transform.position, transform.rotation);
+			Destroy(gameObject);			
 		}
 	}
 	
@@ -42,6 +45,7 @@ public class Health : MonoBehaviour
 				Damage(shot.damage);
 				
 				// Destroy the shot
+				Instantiate(shotConnect, shot.transform.position, shot.transform.rotation);
 				Destroy(shot.gameObject); // Remember to always target the game object, otherwise you will just remove the script
 			}
 		}
