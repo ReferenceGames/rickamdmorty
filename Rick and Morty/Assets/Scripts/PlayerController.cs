@@ -35,8 +35,28 @@ public class PlayerController : MonoBehaviour
 			Vector2 newPosition = new Vector2(transform.position.x + movement, transform.position.y);
 			transform.position = newPosition;
 		}
+
+		// 5 - Shooting
+		bool shoot = Input.GetButtonDown("Fire1");
+		shoot |= Input.GetButtonDown("Fire2");
+		// Careful: For Mac users, ctrl + arrow is a bad idea
 		
+		if (shoot)
+		{
+			WeaponScript weapon = GetComponent<WeaponScript>();
+			if (weapon != null)
+			{
+				// false because the player is not an enemy
+				weapon.Attack(false);
+			}
+		}
+
+		Animating ();
 	}
-	
-	
+
+	void Animating ()
+	{
+		//GetComponent<Animator>().SetBool("IsWalking", true);
+	}
+
 }
