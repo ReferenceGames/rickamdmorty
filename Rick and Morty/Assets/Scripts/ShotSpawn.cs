@@ -7,6 +7,7 @@ public class ShotSpawn : MonoBehaviour {
 	public GameObject bullet;
 	public float timer;
 	public float timeBetweenBullets;
+	public SwipeControls otherScript;
 	
 	void Start () 
 	{
@@ -23,7 +24,7 @@ public class ShotSpawn : MonoBehaviour {
 		transform.eulerAngles = new Vector3 (0 , 0 , transform.eulerAngles.z );
 		
 		
-		if (Input.GetKey (KeyCode.Mouse0) && timer >= timeBetweenBullets)
+		if (Input.GetKey (KeyCode.Mouse0) && timer >= timeBetweenBullets && !otherScript.touching)
 		{
 			fireWeapon();			
 		}

@@ -11,9 +11,9 @@ public class SwipeControls : MonoBehaviour
 	private float swipeDistanceX;
 	private float swipeDistanceY;
 	private RaycastHit hit;
-	private bool touching = false;
+	public bool touching = false;
 	
-	void Update () 
+	public void Update () 
 	{
 		foreach(Touch touch in Input.touches)
 		{
