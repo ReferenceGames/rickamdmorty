@@ -11,7 +11,7 @@ public class MoveScript : MonoBehaviour
 	/// Object speed
 	/// </summary>
 	public Vector2 speed = new Vector2(10, 10);
-	
+
 	/// <summary>
 	/// Moving direction
 	/// </summary>

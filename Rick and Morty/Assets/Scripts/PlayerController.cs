@@ -4,12 +4,12 @@ using System.Collections;
 public class PlayerController : MonoBehaviour 
 {
 	public float movement;
-	
-	
+	public Animator anim;
+
 	// Use this for initialization
 	void Start () 
 	{
-	
+		anim = GetComponent<Animator>();
 	}
 	
 	// Update is called once per frame
@@ -32,6 +32,7 @@ public class PlayerController : MonoBehaviour
 		}
 		else if (Input.GetKeyDown(KeyCode.D))
 		{
+			anim.SetTrigger( "jumpForwardTrigger" );
 			Vector2 newPosition = new Vector2(transform.position.x + movement, transform.position.y);
 			transform.position = newPosition;
 		}
